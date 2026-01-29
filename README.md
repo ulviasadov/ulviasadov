@@ -29,13 +29,6 @@ I'm a **Junior Full Stack Developer** focused on building clean and scalable web
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulviasadov&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulviasadov&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ulvi-asadov-b70791256/
 - 📧 Email:ulviasadovv@gmail.com
