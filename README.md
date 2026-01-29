@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ulvi Asadov
 
-I'm a **Full Stack Developer** with a strong focus on building clean, scalable, and user-friendly web applications.
+I'm a **Junior Full Stack Developer** focused on building clean and scalable web applications.
 
 📍 Based in Azerbaijan  
 💻 Passionate about Web Technologies  
