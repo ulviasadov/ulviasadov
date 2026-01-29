@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Salam, mən [Adın]
 
-<!--
-**ulviasadov/ulviasadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+📍 Azerbaijan  
+🚀 HTML | CSS | JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Bacarıqlarım
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)
+
+---
+
+### 📊 GitHub Statistikam
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ulviasadov&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulviasadov&layout=compact)
+
+---
+
+### 🌐 Contact
+- 💼 LinkedIn: https://linkedin.com/in/...
+- 📧 Email: ulviasadovv@gmail.com
