@@ -17,8 +17,7 @@ I'm a **Junior Full Stack Developer** focused on building clean and scalable web
 ![Backend](https://skillicons.dev/icons?i=cs,dotnet)
 
 #### Database & ORM
-![Database](https://skillicons.dev/icons?i=mysql)
-
+- MsSQL
 - Entity Framework Core
 
 #### Tools & Version Control
